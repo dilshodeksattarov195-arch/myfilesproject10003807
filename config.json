@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smseetch",
+        "uuid": 25693443,
+        "checksum": "liiz2"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
